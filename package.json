@@ -1,9 +1,9 @@
 {
-  "author": "Cian Clarke <cian@cianclarke.com> (http://www.cianclarke.com)",
+  "author": "jack.x.lee@gmail.com",
   "name": "node-gallery",
   "description": "NodeJS Photo Gallery using directory structure & exif info to output a gallery",
-  "version": "1.1.0",
-  "homepage": "http://www.github.com/cianclarke/node-gallery",
+  "version": "1.0.0",
+  "homepage": "http://www.github.com/jack833/node-gallery",
   "license" : "MIT",
   "repository": {
     "url": ""
